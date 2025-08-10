@@ -6,6 +6,9 @@ const heading = React.createElement("div",{id:"parent"},
     )]
 );
 
-console.log(hi);
+
+console.log("hi");
+console.log("hi");
+console.log("hi");
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(heading);
